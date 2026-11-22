@@ -1,0 +1,11 @@
+{
+  "org": "comex",
+  "repo": "rust-shlex",
+  "versions": [
+    {
+      "commit": "4a0724b0b62ef715467875b040a890ce75a8a829",
+      "tag": "1.3.0",
+      "parsed_at": "2026-11-22T09:40:05.787491+00:00"
+    }
+  ]
+}
